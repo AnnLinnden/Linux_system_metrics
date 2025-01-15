@@ -13,6 +13,7 @@ setup(
     install_requires=[
         "PyQt5",
         "psutil",
+        "matplotlib"
     ],
     entry_points={
         "console_scripts": [
