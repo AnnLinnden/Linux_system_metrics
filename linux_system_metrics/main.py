@@ -1,5 +1,5 @@
 from PyQt5.QtWidgets import QApplication
-from .app_window import SystemMonitorWindow
+from linux_system_metrics.app_window import SystemMonitorWindow
 
 
 def main():
